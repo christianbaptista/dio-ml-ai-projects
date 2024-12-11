@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "dio-ml-ai-projects"
+version = "0.1.0"
+description = "cats and dogs validation"
+authors = ["Christian Batista <me@christianbatista.com>"]
+license = "BSD3"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+torch = "^2.5.1"
+torchvision = "^0.20.1"
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
