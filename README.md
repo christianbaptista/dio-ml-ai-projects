@@ -1,6 +1,7 @@
 # dio-ml-ai-projects
-dio-exercises
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
 In this project using 5 epochs try classify a image if cat or dog
 Clone this repo
 
